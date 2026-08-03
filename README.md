@@ -8,7 +8,7 @@ FishHub is a responsive gaming website designed for selling game credits and sho
 
 ![FishHub Preview](screencapture.png)
 
-## Technologies Used
+## Technologies Used 
 
 - HTML5
 - CSS3
